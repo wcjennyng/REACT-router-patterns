@@ -1,0 +1,16 @@
+.ColorList {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: lightgoldenrodyellow;
+}
+
+.ColorList-colors {
+    border: 2px solid;
+    padding: 5px 30px 10px;
+    margin: 20px;
+}
